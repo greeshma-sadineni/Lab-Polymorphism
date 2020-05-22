@@ -1,0 +1,13 @@
+F:\.Net Programs\Lab Polymorphism\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+F:\.Net Programs\Lab Polymorphism\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+F:\.Net Programs\Lab Polymorphism\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+F:\.Net Programs\Lab Polymorphism\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+F:\.Net Programs\Lab Polymorphism\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+F:\.Net Programs\Lab Polymorphism\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+F:\.Net Programs\Lab Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+F:\.Net Programs\Lab Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+F:\.Net Programs\Lab Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+F:\.Net Programs\Lab Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+F:\.Net Programs\Lab Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+F:\.Net Programs\Lab Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+F:\.Net Programs\Lab Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache

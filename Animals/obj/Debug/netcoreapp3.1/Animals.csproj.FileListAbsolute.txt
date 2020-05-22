@@ -1,0 +1,13 @@
+F:\.Net Programs\Lab Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+F:\.Net Programs\Lab Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+F:\.Net Programs\Lab Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+F:\.Net Programs\Lab Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+F:\.Net Programs\Lab Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+F:\.Net Programs\Lab Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+F:\.Net Programs\Lab Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache
+F:\.Net Programs\Lab Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+F:\.Net Programs\Lab Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+F:\.Net Programs\Lab Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+F:\.Net Programs\Lab Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+F:\.Net Programs\Lab Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+F:\.Net Programs\Lab Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache
